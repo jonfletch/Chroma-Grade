@@ -1,0 +1,11 @@
+.video-overlay {
+    /* Diagonal gradient from bottom right */
+    background: linear-gradient(
+        135deg, 
+        rgba(18, 18, 18, 0) 0%,
+        rgba(18, 18, 18, 0.2) 30%,
+        rgba(18, 18, 18, 0.5) 50%,
+        rgba(18, 18, 18, 0.8) 70%,
+        rgba(18, 18, 18, 0.9) 100%
+    );
+}
